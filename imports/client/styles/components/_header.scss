@@ -1,0 +1,18 @@
+.header__bg {
+    justify-content: space-between;
+    background: $brand-primary;
+    height: 6rem;
+}
+
+.header {
+    padding-top: $space;
+    margin: 0 auto;
+    max-width: 50%;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.header__h1 {
+    margin: 0;
+}
